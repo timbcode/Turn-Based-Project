@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Hasan\source\repos\Final_Project\Final_Project\main.cpp(103,13): warning C4101: 'placeholder': unreferenced local variable
+C:\Users\Hasan\source\repos\Final_Project\Final_Project\main.cpp(398,15): warning C4101: 'c': unreferenced local variable
+  Final_Project.vcxproj -> C:\Users\Hasan\source\repos\Final_Project\Debug\Final_Project.exe
